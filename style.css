@@ -36,7 +36,8 @@ h1{
     /* margin: 1rem auto; */
     /* margin-block-start: 0rem;
     margin-block-end: 0rem; */
-    padding : 0.4rem 0.5rem;
+    padding : 0rem;
+    margin : 0rem;
     font-size: 3rem;
 }
 button:hover{
