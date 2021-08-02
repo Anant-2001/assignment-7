@@ -2,7 +2,7 @@
 body{
     font-family: 'Kalam', cursive;
     margin: 0px;
-    font-size: 130%;
+    font-size: 1.5rem;
     margin-left: 0rem;
     
 }
@@ -34,10 +34,10 @@ h2{
 h1{
     display: inline;
     /* margin: 1rem auto; */
-    margin-block-start: 0rem;
-    margin-block-end: 0rem;
-    padding : 0.4rem 1rem;
-    font-size: 300%;
+    /* margin-block-start: 0rem;
+    margin-block-end: 0rem; */
+    padding : 0.4rem 0.5rem;
+    font-size: 3rem;
 }
 button:hover{
     background-color: var(--secondary-color);
@@ -90,7 +90,7 @@ button:hover{
 }
 .image-icon{
     display: inline;
-    max-width: 80px;
+    max-width: 70px;
     margin: 0rem;
     
 }
