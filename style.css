@@ -3,6 +3,7 @@ body{
     font-family: 'Kalam', cursive;
     margin: 0px;
     font-size: 130%;
+    margin-left: 0rem;
 
 }
 :root{
@@ -84,11 +85,4 @@ button:hover{
     max-width: 600px;
     margin: auto;
     text-align: center;
-}
-
-.dummy-image{
-    background-image: url("/images/Ferb.png") ;
-    background-position: right center;
-    background-repeat: no-repeat; 
-    background-size: 200px 100px;
 }
